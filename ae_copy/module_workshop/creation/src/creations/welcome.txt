@@ -1,0 +1,5 @@
+Hello this is the logs section of the app.
+Here you can log anything you want and come back to it later to edit as you go.
+To start type the file name into the File Name text box then click New File.
+It should now show the first log and a box you can type into to insert new text.
+Later on you can click the file name and press edit or read to edit or read the file.

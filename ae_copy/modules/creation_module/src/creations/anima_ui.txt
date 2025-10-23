@@ -1,0 +1,7 @@
+Log 1 on 2025-07-04 at 16:58:22.065810921: "Created project anima_ui.txt"
+Log 2 on 2025-07-04 at 16:58:38.568266163: "First log entry from ui"
+Log 3 on 2025-07-04 at 17:01:44.074180184: "everything is working that was originally programmed into the log_creation project"
+Log 4 on 2025-07-04 at 17:02:48.394679814: "my next order of business is to add a way to remove files that are no longer wanted. this will be done through the edit window with a button and i will also need to add that functionality to the rust file"
+Log 5 on 2025-07-04 at 17:03:42.213416221: "i also want to make a default font size"
+Log 6 on 2025-09-27 at 23:26:22.665349033: "I am going to start working on getting database connection up"
+Log 7 on 2025-09-28 at 00:08:01.622959841: "will be using mqtt"
